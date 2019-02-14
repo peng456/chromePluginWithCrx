@@ -16,4 +16,5 @@ https://www.cnblogs.com/lexiaofei/p/7097206.html
 
 
 ## 三、插件列表
-1、谷歌访问助手破解版   https://github.com/haotian-wang/google-access-helper
+1、谷歌访问助手破解版       https://github.com/haotian-wang/google-access-helper
+2、去除 百度搜索 结果中的 推广链接  https://github.com/TongLing/baiduCleaner
